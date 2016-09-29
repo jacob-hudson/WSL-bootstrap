@@ -1,2 +1,2 @@
 # WSL-setup
-Customizations to my WSL (Windows Sybsystem for Linux) environment 
+Customizations to my WSL (Windows Subsystem for Linux) environment 
