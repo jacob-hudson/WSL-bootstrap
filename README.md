@@ -5,5 +5,5 @@ Customizations to my WSL (Windows Subsystem for Linux) environment.
 Getting into Developer Mode (Manual) -- https://msdn.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development
 
 ## Useful Resources
-Command Reference -- https://msdn.microsoft.com/en-us/commandline/wsl/reference
-User Account Information -- https://msdn.microsoft.com/en-us/commandline/wsl/user_support
+- Command Reference -- https://msdn.microsoft.com/en-us/commandline/wsl/reference
+- User Account Information -- https://msdn.microsoft.com/en-us/commandline/wsl/user_support
