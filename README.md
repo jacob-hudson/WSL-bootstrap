@@ -6,3 +6,4 @@ Getting into Developer Mode (Manual) -- https://msdn.microsoft.com/en-us/windows
 
 ## Useful Resources
 Command Reference -- https://msdn.microsoft.com/en-us/commandline/wsl/reference
+User Account Information -- https://msdn.microsoft.com/en-us/commandline/wsl/user_support
