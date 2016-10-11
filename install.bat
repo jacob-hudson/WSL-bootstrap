@@ -2,6 +2,7 @@
 ECHO Bootstrapping WSL environmnet for user:  %USERNAME%
 
 ECHO Allowing Sideloading of Apps...
+reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
 
 ECHO Putting machine into Developer Mode...
