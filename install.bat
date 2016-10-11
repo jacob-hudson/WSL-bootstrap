@@ -10,6 +10,7 @@ reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModel
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1"
 
 ECHO Turning on WSL...
+dism /online /get-featureinfo /featurename:Microsoft-Windows-Subsystem-Linux
 dism /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux
 
 ECHO Building WSL environment...
