@@ -1,5 +1,5 @@
 @ECHO off
-ECHO Bootstrapping WSL environmnet for user:  %USERNAME%
+ECHO Bootstrapping WSL environment for user: %USERNAME%
 
 ECHO Allowing Sideloading of Apps...
 reg query "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
