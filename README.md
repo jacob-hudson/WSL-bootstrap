@@ -1,4 +1,4 @@
-# WSL-setup
+# WSL-bootstrap
 Customizations to my WSL (Windows Subsystem for Linux) environment.
 
 ## Current (Manual) Steps
