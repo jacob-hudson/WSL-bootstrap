@@ -1,5 +1,5 @@
 # WSL-bootstrap
-Customizations to my WSL (Windows Subsystem for Linux) environment.
+Bootstraps Windows 10 machines (that have the anniversary update installed) with the Ubuntu Linux Subsystem
 
 ## Current (Manual) Steps
 Getting into Developer Mode (Manual) -- https://msdn.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development
