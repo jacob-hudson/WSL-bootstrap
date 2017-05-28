@@ -1,0 +1,8 @@
+-- Beta feature --
+This will install Ubuntu on Windows, distributed by Canonical
+and licensed under its terms available here:
+https://aka.ms/uowterms
+
+Downloading from the Windows Store... 100%
+Extracting filesystem, this will take a few minutes...
+Installation successful!
